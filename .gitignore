@@ -1,0 +1,10 @@
+# Ignore log files
+*.log
+
+# Ignore build directories
+.vscode/
+app/__pycache__/
+data/box_files/**
+data/images/**
+data/pdfs/**
+tess_ocr/
